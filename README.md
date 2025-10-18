@@ -28,15 +28,11 @@ project_code.zip → Complete Visual Studio Code project folder
 
 🧰 Tools & Technologies Used
 
-Python
-
-Pandas, NumPy
-
-Matplotlib, Seaborn
-
-Scikit-learn
-
-Jupyter Notebook 
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Jupyter Notebook 
 
 
 ⚙️ How to Run
@@ -86,7 +82,7 @@ Jupyter Notebook
 
 
 
-  📎 Dataset Source
+📎 Dataset Source
 
 The dataset used is the Credit Card Fraud Detection Dataset available on Kaggle 
 Link for Dataset:- https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models/input
